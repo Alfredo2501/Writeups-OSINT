@@ -35,7 +35,8 @@ A combination main battle tank and armored personnel carrier, designed and manuf
 We have a name and the origin country, now we have to search more information about the model and their origin country.
 
 In the next link I found a lot of information about the tank: _https://es.wikipedia.org/wiki/Merkava_
-and looking into the models available, I found many coincidences with the model **_MK IVm_**
+and looking into the models available, I found many coincidences with the model: 
+> **_MK IVm_**
 
 Now we have all the data we need, we just have to make the flag with the data:
-*israel-merkava-mk-4m*
+> *israel-merkava-mk-4m*
