@@ -46,7 +46,7 @@ If we compare this result with the photo of the case, we can confirm it's the sa
 We have a description in French, translating the text: "Satellite view of **_Brussels_** and its metropolitan area".
 
 We found the name of the city, it is Brussels, searching in Google I found Brussels is on Belgium, to confirm this information we can search "Brussels, Belgium" on Google Maps and see if it is the same place:
-![Details](https://github.com/user-attachments/assets/a21a39c2-a808-412b-948f-9861656b9d65)
+![Map](https://github.com/user-attachments/assets/c7f69c93-927a-4440-918a-46767331cf97)
 
 Comparing the results on Google Maps and the photo of the case, we can confirm the data we've collected is correct, now we can make the flag:
 
