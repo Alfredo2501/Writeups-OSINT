@@ -1,4 +1,4 @@
-![Details](https://github.com/user-attachments/assets/8d42c9bb-2e04-4634-8ab8-97bda0126b4a)![Location](https://github.com/user-attachments/assets/c2c3ac59-fe52-4246-87aa-8f30b4fa2271)### Gas-Attack
+### Gas-Attack
 
 ```
 Greetings, Special Agent.
