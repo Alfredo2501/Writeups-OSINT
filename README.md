@@ -13,3 +13,8 @@ With the OSINT we can:
 * Do audits and validate information about a person or business.
 
 In many cases, the success will depend on our results and the way we use the data and tools, this is a technique that requires a lot of patience and concentration to collect good results.
+
+All of these writeups are from Hacktoria, you can see the webpage following this link: https://hacktoria.com/
+
+
+I hope you can learn something with this writeups like I do with every challenge I solve, and remember, the OSINT is a technique that requires constantly learning about new trends and not staying with old knowledge
