@@ -82,9 +82,9 @@ Our prediction: 44 65 61 72 20 4d 72 2e 20 41 6e 64 65 72 73 6f 6e
 
 Comparing the results, we can see the letter than the author changed in the message:
 
-1.- q = d
-2.- r = e
-3.- s = f
+1. q = d
+2. r = e
+3. s = f
 
 We have a few letters, but we need more so, let's try again this technique with another fragment: "44 65 61 72 20 4q 72 2r 20 41 6r 64 65 72 73 6s 6r 2p 0n 0n 41 73 20 79 6s 75 20 6q 61 79 20 6o 6r 6s 77 2p 20 49 20 68 61 76 65 20 79 6s 75 72 20 64 61 75 67 68 74 65 72 2r 20 49 6r 20 74 68 65 20 6r 65 78 74 20 32 34 20 68 6s 75 72 73 2p 20 73 68 65 20 77 69 6p 6p 20 62 65"
 
@@ -104,9 +104,9 @@ Our prediction: 44 65 61 72 20 4d 72 2e 20 41 6e 64 65 72 73 6f 6e 2e 2e 2e 20 4
 
 After the comparation, we can find 3 letters more that have been changed:
 
-4.- p = c
-5.- n = e
-6.- o = b
+4. p = c
+5. n = e
+6. o = b
 
 We can replace the letters with notepad using the tool "Replace" and deciphering again, now with the changes:
 
