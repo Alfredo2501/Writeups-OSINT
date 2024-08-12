@@ -1,4 +1,4 @@
-### Operation-Bloodhounded
+### Kidnapped
 
 ```
 We have an urgent case on our hands. Our friends at the Police Nationale, in Paris France, have reached out for our assistance. It’s a case concerning the daughter of a US diplomat residing in France. Recently, Jason Anderson, a former officer with the United States Army Rangers, now diplomat assigned as an intelligence liaison in Paris, received a phone call stating his daughter had been taken. Shortly after, Mr Anderson received a written message in cipher text. We have reason to believe they are closely related.
