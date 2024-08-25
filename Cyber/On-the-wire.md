@@ -40,7 +40,7 @@ Checking the packages we can see the user had visited search engines, Microsoft 
 
 The user visited a pastebin, for those who don't know the pastebin: Is a web application where people can upload small texts, is more used to upload code, links, etc.
 
-The cybercriminal use pastebins to upload their malicious links and store their data leaks, or hide their content to go unnoticed around the world.
+The cybercriminals use pastebins to upload their malicious links and store their data leaks, or hide their content to go unnoticed around the world.
 
 Here is the link: _https://pastebin.com/raw/U7zb8Kyh_
 
@@ -50,6 +50,6 @@ If we open the pastebin it give us the next Bit.ly URL: _https://bit.ly/3qyrf7t_
 And we founded a clue to the case of the corrupt politician, unfortunately the URL has been deactivaded, I tried following the URL putting "+" symbol at the end to see where it redirects but I couldn't do it:
 ![Error](https://github.com/user-attachments/assets/2a537915-2c3a-4f4e-8700-ced0ae3803f8)
 
-At least we founded the flag for the challenge:
+At least we found the flag for the challenge:
 
 > https://bit.ly/3qyrf7t
